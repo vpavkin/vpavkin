@@ -30,3 +30,5 @@ alt="Aecor" width="240" height="180" border="10" /></a>
 </p>
 
 <p><a href="https://www.pavkin.ru/talks">➡️ More talks</a></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpavkin&show_icons=true" alt="vpavkin" /> </p>
