@@ -15,14 +15,14 @@
 
 <h3>Latest Talks</h3>
 
-<h4>ZIO Inception. Journey through layers and intersection types (FunctionalWorld, 2020) <h4/>
+<h4>ZIO Inception. Journey through layers and intersection types (FunctionalWorld, 2020) </h4>
 <p>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vNQFlq1SvaE
 " target="_blank"><img src="http://img.youtube.com/vi/vNQFlq1SvaE/0.jpg" 
 alt="ZIO Inception" width="240" height="180" border="10" /></a>
 </p>
 
-<h4>Aecor: Purely functional eventsourcing in Scala (Scalar, Warsaw, 2019) <h4/>
+<h4>Aecor: Purely functional eventsourcing in Scala (Scalar, Warsaw, 2019) </h4>
 <p>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KNxAI8612JI
 " target="_blank"><img src="http://img.youtube.com/vi/KNxAI8612JI/0.jpg" 
